@@ -30,13 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Clique aqui para acessar o meu projeto finalizado.](https://moveiscustomizados-fixbugs.vercel.app/)
+<a href="https://moveiscustomizados-fixbugs.vercel.app/" target="_blank"> - Clique aqui para acessar o meu projeto finalizado.</a>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout original do projeto através [DESSE LINK](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout original do projeto através <a href="https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1&mode=dev" target="_blank">DESSE LINK</a> . É necessário ter conta no <a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
 
 ## 💜 Agradecimentos
 
 Um agradecimento especial a <b>Rocketseat</b> por todos os projetos educacionais e por estimular o aprendizado em comunidade. 🚀
-[Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<a href="https://discord.gg/rocketseat" target="_blank">Participe da nossa comunidade!</a>
