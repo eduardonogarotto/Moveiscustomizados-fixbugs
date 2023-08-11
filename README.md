@@ -12,7 +12,7 @@ A imagem abaixo representa a página bagunçada, e na seção Projeto você pode
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto finalizado">Projeto Finalizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-agradecimentos">Agradecimentos</a>
 </p>
@@ -28,9 +28,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Projeto Finalizado
 
-<a href="https://moveiscustomizados-fixbugs.vercel.app/" target="_blank"> - Clique aqui para acessar o meu projeto finalizado.</a>
+A imagem abaixo é uma prévia do projeto finalizado. Além disso, todos os detalhes do projeto podem ser verificados através do link abaixo.
+
+<img src="./github/projeto-finalizado.jpg" width="700">
+<br /><br />
+<a href="https://moveiscustomizados-fixbugs.vercel.app/" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
 
 ## 🔖 Layout
 
